@@ -19844,7 +19844,7 @@
 						_react2.default.createElement(
 							"div",
 							{ className: "searchbar form-group" },
-							_react2.default.createElement("input", { value: this.props.searchValue, onChange: this.searchByName.bind(this), type: "text", className: "form-control", placeholder: "Search people by name..." })
+							_react2.default.createElement("input", { value: this.props.searchValue, onChange: this.searchByName.bind(this), type: "text", className: "form-control", placeholder: "Поиск по названию..." })
 						)
 					)
 				);
