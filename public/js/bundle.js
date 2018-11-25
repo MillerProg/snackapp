@@ -1,12 +1,8 @@
-/******/ (function(modules) { // webpackBootstrap
-/******/ 	// The module cache
-/******/ 	var installedModules = {};
+(function(modules) {
+	var installedModules = {};
+	function __webpack_require__(moduleId) {
 
-/******/ 	// The require function
-/******/ 	function __webpack_require__(moduleId) {
-
-/******/ 		// Check if module is in cache
-/******/ 		if(installedModules[moduleId])
+ 		if(installedModules[moduleId])
 /******/ 			return installedModules[moduleId].exports;
 
 /******/ 		// Create a new module (and put it into the cache)
@@ -20117,7 +20113,7 @@
 																					_react2.default.createElement(
 																									'span',
 																									null,
-																									'8'
+																									''
 																					),
 																					' ',
 																					this.props.user.phone
@@ -20205,27 +20201,13 @@
 										currentUser.age
 									)
 								),
-								_react2.default.createElement(
+						_react2.default.createElement(
 									"tr",
 									null,
 									_react2.default.createElement(
 										"td",
 										null,
-										"Тип упаковки:"
-									),
-									_react2.default.createElement(
-										"td",
-										null,
-										currentUser.image
-									)
-								),
-								_react2.default.createElement(
-									"tr",
-									null,
-									_react2.default.createElement(
-										"td",
-										null,
-										"Phone:"
+										"Вес:"
 									),
 									_react2.default.createElement(
 										"td",
