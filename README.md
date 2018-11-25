@@ -1,2 +1,2 @@
 
-https://millerprog.github.io/snackapp/.
+https://millerprog.github.io/snackapp
