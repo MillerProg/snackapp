@@ -20193,7 +20193,7 @@
 									_react2.default.createElement(
 										"td",
 										null,
-										"Цена:"
+										"ВН:"
 									),
 									_react2.default.createElement(
 										"td",
@@ -20207,7 +20207,7 @@
 									_react2.default.createElement(
 										"td",
 										null,
-										"Вес:"
+										"Дата рождения:"
 									),
 									_react2.default.createElement(
 										"td",
