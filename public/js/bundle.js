@@ -20229,7 +20229,7 @@
 							_react2.default.createElement(
 								"b",
 								null,
-								"Энергетическая ценность на 100 гр: "
+								"Диагноз: "
 							),
 							_react2.default.createElement(
 								"span",
