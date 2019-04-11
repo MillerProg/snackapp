@@ -20007,17 +20007,17 @@
 							_react2.default.createElement(
 								'th',
 								null,
-								'Название'
+								'ФИО'
 							),
 							_react2.default.createElement(
 								'th',
 								null,
-								'Цена'
+								'ВН'
 							),
 							_react2.default.createElement(
 								'th',
 								null,
-								'Вес'
+								'Дата рождения'
 							)
 						)
 					),
