@@ -19840,7 +19840,7 @@
 						_react2.default.createElement(
 							"div",
 							{ className: "searchbar form-group" },
-							_react2.default.createElement("input", { value: this.props.searchValue, onChange: this.searchByName.bind(this), type: "text", className: "form-control", placeholder: "Поиск по названию..." })
+							_react2.default.createElement("input", { value: this.props.searchValue, onChange: this.searchByName.bind(this), type: "text", className: "form-control", placeholder: "Поиск по ФИО..." })
 						)
 					)
 				);
@@ -19913,7 +19913,7 @@
 	                            _react2.default.createElement(
 	                                "span",
 	                                null,
-	                                " Сортировка по названию"
+	                                " Сортировка по ФИО"
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -19923,7 +19923,7 @@
 	                            _react2.default.createElement(
 	                                "span",
 	                                null,
-	                                " Сортировка по цене"
+	                                " Сортировка по ВН"
 	                            )
 	                        )
 	                    )
